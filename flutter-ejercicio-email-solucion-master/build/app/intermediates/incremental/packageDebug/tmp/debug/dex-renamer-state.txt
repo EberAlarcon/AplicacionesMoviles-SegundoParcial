@@ -1,0 +1,4 @@
+#Thu Dec 01 14:32:42 COT 2022
+base.0=C\:\\Users\\EBER\\Proyectos Flutter\\flutter-ejercicio-email-solucion-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
